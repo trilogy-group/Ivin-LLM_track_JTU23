@@ -1,5 +1,3 @@
-# Part 1
-
 ## First try
 
 User
